@@ -1,7 +1,7 @@
-name: get_battery_per_android
+name: get_battery_per_android_test
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/cccdev-mobileapp/get_battery_per_android
 
 environment:
   sdk: '>=3.0.3 <4.0.0'
